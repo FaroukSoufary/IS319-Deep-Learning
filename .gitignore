@@ -1,0 +1,4 @@
+.ipynb_checkpoints/*
+*.npy
+test*
+dl-tp2/data
